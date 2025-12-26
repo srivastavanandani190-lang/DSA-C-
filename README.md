@@ -6,7 +6,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+DSA+in+C%2B%2B+Journey!;Mastering+Data+Structures+and+Algorithms;Building+Strong+Core+Fundamentals;Learning+Every+Single+Day+🚀" />
 </p>
-
 <!-- ─────────────────────────────────────────────── -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="350" />
