@@ -4,20 +4,9 @@
 <!-- ───────────────────────────<!-- ─────────────────────────────────────────────── -->
 <!-- 🔥 HEADER ANIMATION -->
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    font=JetBrains+Mono
-    &color=00FFAB
-    &center=true
-    &vCenter=true
-    &width=900
-    &size=30
-    &lines=Welcome+to+My+DSA+in+C%2B%2B+Journey!;
-    Mastering+Data+Structures+and+Algorithms;
-    Building+Strong+Core+Fundamentals;
-    Learning+Every+Single+Day+🚀" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+DSA+in+C%2B%2B+Journey!;Mastering+Data+Structures+and+Algorithms;Building+Strong+Core+Fundamentals;Learning+Every+Single+Day+🚀" />
 </p>
+
 
 <!-- ─────────────────────────────────────────────── -->
 <p align="center">
