@@ -1,5 +1,4 @@
 # DSA(CPP)-
-C++ DSA built through continuous learning and hands-on coding.
 <!-- ───────────────────────────<!-- ─────────────────────────────────────────────── -->
 <!-- 🔥 HEADER ANIMATION -->
 <p align="center">
@@ -18,10 +17,8 @@ C++ DSA built through continuous learning and hands-on coding.
 ---
 
 ## 📘 About This Repository
-
-This repo contains everything I learn while mastering  
 ### **⚡ Data Structures and Algorithms using C++ ⚡**
-
+This repo contains everything I learn while mastering C++ DSA. 
 Structured, clean, beginner-friendly + interview-oriented.
 
 ---
