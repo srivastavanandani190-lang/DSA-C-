@@ -29,12 +29,12 @@ int main(){
     auto p=l1.begin();
     auto q=l2.begin();
     list<int> result;
-    //Intersection of two sorted lists
+    //Difference of two sorted lists
 
     while(p!=l1.end() && q!=l2.end()){
         if(*p<*q)
         {
-            // result.push_back(*p);
+            result.push_back(*p);
             ++p;
         }
          
@@ -45,16 +45,16 @@ int main(){
         }
         else
         {
-           result.push_back(*q);
+           // result.push_back(*q);
             ++q;
             ++p;
         }
     }
 
-    // while(p!=l1.end()){
-    //     result.push_back(*p);
-    //     ++p;
-    // }
+    while(p!=l1.end()){
+        result.push_back(*p);
+        ++p;
+    }
 
     // while(q!=l2.end()){
     //     result.push_back(*q);
