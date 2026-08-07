@@ -107,7 +107,7 @@ Structured, clean, beginner-friendly + interview-oriented.
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:000000,50:001F54,100:003B8E &desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&fontColor=FFFFFF&fontSize=35&fontAlignY=68&descAlignY=86&descSize=18&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:000000,50:001F54,100:003B8E & text="" &desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&fontColor=FFFFFF&fontSize=35&fontAlignY=68&descAlignY=86&descSize=18&animation=fadeIn"
     alt="Footer Banner"
   />
 </p>
