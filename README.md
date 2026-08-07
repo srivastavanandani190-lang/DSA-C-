@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001F54,100:0033CC&height=240&section=header&text=DSA%20IN%20C%2B%2B&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mastering%20Data%20Structures%20%26%20Algorithms%20One%20Problem%20at%20a%20Time&descAlignY=58&descSize=18"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,20,24&text=DSA%20IN%20C%2B%2B&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=58&descSize=20&animation=fadeIn"
+  />
 </p>
 
 <h1 align="center">💻 DSA in C++ 💻</h1>
@@ -78,8 +81,10 @@ Structured, clean, beginner-friendly + interview-oriented.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0033CC,50:001F54,100:000000&height=140&section=footer"/>
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=24,20,2,0"
+  />
 </p>
- 
  
 
