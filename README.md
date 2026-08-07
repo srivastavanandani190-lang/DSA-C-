@@ -105,12 +105,10 @@ Structured, clean, beginner-friendly + interview-oriented.
 </p>
 
 <p align="center">
-  <b>Happy Coding 🚀 Keep Learning • Keep Building • Keep Growing</b>
-</p>
-<p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:003B8E,50:001F54,100:000000"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=220&color=0:003B8E,50:001F54,100:000000&text=Happy%20Coding%20🚀&desc=Keep%20Learning%20•%20Keep%20Building%20•%20Keep%20Growing&fontColor=ffffff&fontSize=36&fontAlignY=65&descAlignY=85&descSize=18"
+    alt="Footer Banner"
   />
 </p>
 
