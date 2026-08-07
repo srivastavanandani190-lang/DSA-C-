@@ -1,9 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=timeGradient&text=DSA%20IN%20C%2B%2B&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=58&descSize=20&animation=fadeIn"
   />
-</p>
+</p> -->
 
 <h1 align="center">💻 DSA in C++ 💻</h1>
 
