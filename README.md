@@ -22,31 +22,62 @@ Structured, clean, beginner-friendly + interview-oriented.
 
 ---
 
-## 🚀What’s Included?
-
-### 🌟**C++ Basics**
-- Variables, Loops, Patterns  
-- Functions, Recursion  
-- Memory, Pointers  
-- OOP Essentials  
-
-### 🌱**Core Data Structures**
-- 🔹 Arrays  
-- 🔹 Strings  
-- 🔹 Linked Lists  
-- 🔹 Stacks & Queues  
-- 🔹 Trees & BST  
-- 🔹 Heaps  
-- 🔹 Hash Maps  
-- 🔹 Graphs  
-
-### ⚙️**Algorithms**
-- 🔸 Searching  
-- 🔸 Sorting  
-- 🔸 Greedy  
-- 🔸 Backtracking  
-- 🔸 Dynamic Programming (Basics)  
  
+
+# <p align="center">🚀 <span style="color:#003B8E">What's Included?</span></p>
+
+<table align="center">
+<tr>
+<td width="33%" valign="top">
+
+## 🔷 C++ Fundamentals
+
+```cpp
+✓ Variables
+✓ Loops
+✓ Patterns
+✓ Functions
+✓ Recursion
+✓ Memory
+✓ Pointers
+✓ OOP Essentials
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+## 🌌 Data Structures
+
+```cpp
+▸ Arrays
+▸ Strings
+▸ Linked Lists
+▸ Stacks & Queues
+▸ Trees & BST
+▸ Heaps
+▸ Hash Maps
+▸ Graphs
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+## ⚡ Algorithms
+
+```cpp
+◆ Searching
+◆ Sorting
+◆ Greedy
+◆ Backtracking
+◆ Dynamic Programming
+   (Basics)
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
