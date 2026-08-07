@@ -6,9 +6,8 @@
 </p> -->
 
 <h1 align="center">💻 DSA in C++ 💻</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=3B82F6&center=true&vCenter=true&width=900&size=24&lines=Welcome+to+My+DSA+Journey!;Mastering+Data+Structures+and+Algorithms;Building+Strong+Problem+Solving+Skills;Learning+Every+Single+Day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=30&duration=3500&pause=1000&color=003B8E&center=true&vCenter=true&width=950&lines=💻+Welcome+to+My+DSA+Journey!;🚀+Mastering+Data+Structures+%26+Algorithms;🧠+Building+Strong+Problem+Solving+Skills;⭐+Learning+Every+Single+Day" alt="Typing SVG" />
 </p>
 
 <p align="center">
