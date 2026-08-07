@@ -22,9 +22,15 @@ Structured, clean, beginner-friendly + interview-oriented.
 
 ---
 
- 
+ ## 🛠️Tech Stack
 
-# <p align="center">🚀 <span style="color:#003B8E">What's Included?</span></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,vscode,github" />
+</p>
+
+---
+
+# <p>🚀 <span style="color:#003B8E">What's Included?</span></p>
 
 <table align="center">
 <tr>
@@ -81,13 +87,7 @@ Structured, clean, beginner-friendly + interview-oriented.
 
 ---
 
-## 🛠️Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,vscode,github" />
-</p>
-
----
 
 ## 🎯My Goals
 - Build rock-solid **DSA foundation**  
@@ -99,8 +99,7 @@ Structured, clean, beginner-friendly + interview-oriented.
 ---
  
 
----
-
+ 
 <p align="center">
   <b>⭐ If you found this repository helpful, consider giving it a Star ⭐</b>
 </p>
