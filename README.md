@@ -19,7 +19,7 @@
 
 # 📘 About This Repository
 
-> ### 💙 **Data Structures & Algorithms using C++**
+> ### 🛡️ **Data Structures & Algorithms using C++**
 
 ```cpp
 📌 A structured collection of my C++ DSA learning journey.
