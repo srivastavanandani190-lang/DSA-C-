@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,20,24&text=DSA%20IN%20C%2B%2B&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=58&descSize=20&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:001F54,100:003B8E&text=DSA%20IN%20C%2B%2B&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Mastering%20Data%20Structures%20%26%20Algorithms&descAlignY=58&descSize=20&animation=fadeIn"
   />
 </p>
 
@@ -79,12 +79,10 @@ Structured, clean, beginner-friendly + interview-oriented.
 <p align="center">
   <b>Happy Coding 🚀 Keep Learning • Keep Building • Keep Growing</b>
 </p>
-
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=gradient&customColorList=24,20,2,0"
+    src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:003B8E,50:001F54,100:000000"
   />
 </p>
- 
 
