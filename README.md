@@ -15,10 +15,23 @@
 
 ---
 
-## 📘About This Repository
-### **⚡ Data Structures and Algorithms using C++ ⚡**
-This repo contains everything I learn while mastering C++ DSA. 
-Structured, clean, beginner-friendly + interview-oriented.
+---
+
+# 📘 About This Repository
+
+> ### 💙 **Data Structures & Algorithms using C++**
+
+```cpp
+📌 A structured collection of my C++ DSA learning journey.
+
+✓ Beginner-friendly explanations
+✓ Clean and well-organized solutions
+✓ Step-by-step concept building
+✓ Interview-oriented practice
+✓ Consistent learning and problem solving
+```
+
+> **"Building strong fundamentals, one problem at a time." 🚀**
 
 ---
 
