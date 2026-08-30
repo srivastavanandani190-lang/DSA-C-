@@ -4,33 +4,44 @@ class customer{
 string name;
 int accountnumber;
 int balance;
-//default constructor
 public:
+//default constructor
 customer(){
     cout<<"Default constructor!"<<"\n";
     name="Nandani";
     accountnumber=12345;
     balance=5089635;
 }
-customer(string name,int accountnumber,int balance){
-  this->name=name;//Parameterised constructor
-  this->accountnumber=accountnumber;
-  this->balance=balance;
 
-}
+//Parameterised constructor
+// customer(string name,int accountnumber,int balance){
+//   this->name=name;
+//   this->accountnumber=accountnumber;
+//   this->balance=balance;
+
+// }//this pointer is used to refer to the current object of the class.
+//It is used to access the members of the current object and to differentiate between member variables and local variables with the same name.  
+
 //constructor overloading
-//inline constructor
 customer(string a,int b){
     name=a;
     accountnumber=b;
     balance=5000;
 }
+
 void display(){
     cout<<"Name:"<<name<<"\n";
     cout<<"accountnumber:"<<accountnumber<<"\n";
     cout<<"balance:"<<balance<<"\n";
 }
-customer(customer &B){//copy constructor created
+
+//inline constructor
+inline customer(string a,int b,int c):name(a),accountnumber(b),balance(c){
+    cout<<"Inline default constructor!"<<"\n";
+}
+
+//copy constructor created
+customer(customer &B){
     name=B.name;
     accountnumber=B.accountnumber;
     balance=B.balance;
