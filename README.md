@@ -17,7 +17,7 @@
 
 ---
 
-# 📘 About This Repository
+# 📘About This Repository
 
 > ### 🛡️ **Data Structures & Algorithms using C++**
 
@@ -49,7 +49,7 @@
 <tr>
 <td width="33%" valign="top">
 
-## 🔷 C++ Fundamentals
+## 🔷C++ Fundamentals
 
 ```cpp
 ✓ Variables
@@ -66,7 +66,7 @@
 
 <td width="33%" valign="top">
 
-## 🌌 Data Structures
+## 🌌Data Structures
 
 ```cpp
 ▸ Arrays
@@ -83,7 +83,7 @@
 
 <td width="33%" valign="top">
 
-## ⚡ Algorithms
+## ⚡Algorithms
 
 ```cpp
 ◆ Searching
