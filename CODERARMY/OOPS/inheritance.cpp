@@ -27,3 +27,6 @@ int main(){
     a.display();
     return 0;
 }
+// A BankAccount base class keeps its balance private to prevent unauthorized tampering, 
+// shares a protected calculateInterest() method exclusively with its SavingsAccount subclass,
+//  and exposes a public deposit() method for the customer to use.
