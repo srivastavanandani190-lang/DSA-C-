@@ -22,6 +22,9 @@ class student : public human {
         this->fee=fee;
          
     }
+    void work(){
+        cout<<"Students are doing Internship\n";
+    }
     void display() {
         cout << "Name: " << name << endl;
         cout << "Age: " << age << endl;
@@ -32,6 +35,8 @@ int main() {
     student s1;
     s1.setDetails("Alice", 20, "XYZ High School", 101,5000);
     s1.display();
-    s1.work(); // Inherited method from human class
+    s1.work(); 
+    //i want to call the work method of human class but it is not possible because it is overridden in student class
+    s1.human::work(); // Call the work method of human class
     return 0;
 }
