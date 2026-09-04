@@ -27,6 +27,7 @@ int main(){
     dog d;
     a = &d;
     a->sound(); // Calls animal's sound() because it's not virtual
+    
     animal *b;//parent class pointer
     vector<animal*> animals;
     animals.push_back(new dog());
