@@ -36,3 +36,4 @@ int main() {
     tech_lead t2;
     return 0;
 }
+//multiple inheritance is where a single child class inheriting multiple parent class and sequence matter when constructor is called!
