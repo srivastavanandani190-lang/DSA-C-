@@ -7,7 +7,8 @@ class human {
          cout << "Name: " << name << endl;
      }  
 };
-class engineer: public virtual human {
+class engineer: public virtual human {//virtual is used to avoid ambiguity in multiple inheritance it assign only one copy of the base class to the derived class
+    //it do that in runtime by creating a virtual table for the base class and the derived class will point to that table
     public:
     string specialization;
     void show_specialization() {
