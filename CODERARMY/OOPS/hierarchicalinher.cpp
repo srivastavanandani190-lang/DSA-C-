@@ -54,3 +54,4 @@ int main() {
     t1.work(); // Inherited method from human class
     return 0;
 }
+//herirarchical inheritance is where a single parent class is inherited by multiple child classes and the child classes can access the properties and methods of the parent class.
