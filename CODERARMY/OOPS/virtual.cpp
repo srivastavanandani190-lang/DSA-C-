@@ -38,4 +38,5 @@ int main(){
         b=animals[i];
         b->sound(); // Calls the appropriate sound() based on the object type
     }  
-    r
+    return 0;
+}
